@@ -1,4 +1,4 @@
 
 
-for x in range(1,100):
-    print(x,'what isb this ')
+for x in range(1,10):
+    print(x)
